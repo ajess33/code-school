@@ -66,6 +66,10 @@ footer {
   padding-top: 20px;
 }
 
+footer a {
+  text-decoration: none;
+}
+
 .img-small {
   width: 320px;
   height: 250px;
@@ -99,6 +103,5 @@ main h3 {
 }
 
 map {
-  font-weight: bold;
-  font-size: 1.5em;
+  text-align: center;
 }
