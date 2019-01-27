@@ -91,7 +91,6 @@ footer a {
 
 main h3 {
   color: #1973cd;
-  /* margin-top: 200px; */
   text-align: center;
   font-size: 1.5rem;
 }
@@ -109,9 +108,29 @@ main h3 {
   line-height: 30px;
 }
 
-.author {
-}
-
 map {
   text-align: center;
+}
+
+.resource-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-align: center;
+  margin: 80px auto 0 auto;
+  max-width: 900px;
+}
+
+.resource-list img {
+  height: 200px;
+  width: 200px;
+}
+
+.title {
+  text-align: center;
+  font-size: 2.2rem;
+}
+
+.page-resource {
+  padding: 120px;
 }
