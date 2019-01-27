@@ -110,6 +110,14 @@ main h3 {
   line-height: 30px;
 }
 
+.reviews button {
+  background-color: blue;
+  font-weight: bold;
+  font-size: 1.5em;
+  width: 250px;
+  height: 75px;
+}
+
 .map {
   text-align: center;
   font-size: 2.2rem;
