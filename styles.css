@@ -115,14 +115,10 @@ main h3 {
   font-size: 2.2rem;
 }
 
-<<<<<<< HEAD
-.map {
-=======
 .resource-list {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
->>>>>>> f0a0ba2583fd8565d0640cbe04ad245fae33a1f0
   text-align: center;
   margin: 80px auto 0 auto;
   max-width: 900px;
